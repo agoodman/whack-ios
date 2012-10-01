@@ -1,0 +1,12 @@
+h1. Whack
+
+Anger-driven helpdesk triggering for iOS
+
+h1. Installation
+
+Add this repo as a submodule. Then, add the Whack directory to your project.
+
+h1. Usage
+
+Import the category to your view controller and call registerShakeTrigger, passing in the block to execute when the user shakes the device.
+
