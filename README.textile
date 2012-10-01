@@ -1,6 +1,6 @@
 h1. Whack
 
-Anger-driven helpdesk triggering for iOS
+Anger-driven helpdesk triggering for iOS. When users shake or smack their device in frustration, soothe their concerns with a friendly tutorial view.
 
 h1. Installation
 
